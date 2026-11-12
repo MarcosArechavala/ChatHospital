@@ -1,0 +1,6 @@
+@ChatHospital_HostAddress = http://localhost:5014
+
+GET {{ChatHospital_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
