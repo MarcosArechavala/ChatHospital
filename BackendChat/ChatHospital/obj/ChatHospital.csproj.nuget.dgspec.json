@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\ChatHospital.csproj": {}
+    "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\ChatHospital.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\ChatHospital.csproj": {
+    "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\ChatHospital.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\ChatHospital.csproj",
+        "projectUniqueName": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\ChatHospital.csproj",
         "projectName": "ChatHospital",
-        "projectPath": "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\ChatHospital.csproj",
+        "projectPath": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\ChatHospital.csproj",
         "packagesPath": "C:\\Users\\marechavala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\obj\\",
+        "outputPath": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marechavala\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"

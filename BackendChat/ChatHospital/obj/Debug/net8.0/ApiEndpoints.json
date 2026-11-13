@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "MensajesController",
+    "Method": "ObtenerHistorial",
+    "RelativePath": "api/Mensajes/{miServicio}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "miServicio",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ChatHospital.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

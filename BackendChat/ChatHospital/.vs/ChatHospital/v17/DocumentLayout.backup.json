@@ -1,21 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\",
+  "WorkspaceRootPath": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|c:\\users\\marechavala\\source\\repos\\backendchat\\chathospital\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|solutionrelative:chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|c:\\users\\marechavala\\source\\repos\\backendchat\\chathospital\\chathospital.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|solutionrelative:chathospital.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|c:\\users\\marechavala\\source\\repos\\backendchat\\chathospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|c:\\users\\marechavala\\source\\repos\\chathospital\\backendchat\\chathospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|c:\\users\\marechavala\\source\\repos\\backendchat\\chathospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|c:\\users\\marechavala\\source\\repos\\chathospital\\backendchat\\chathospital\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|c:\\users\\marechavala\\source\\repos\\chathospital\\backendchat\\chathospital\\controllers\\mensajescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|solutionrelative:controllers\\mensajescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|c:\\users\\marechavala\\source\\repos\\chathospital\\backendchat\\chathospital\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|solutionrelative:chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|c:\\users\\marechavala\\source\\repos\\chathospital\\backendchat\\chathospital\\chathospital.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|solutionrelative:chathospital.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|c:\\users\\marechavala\\source\\repos\\chathospital\\backendchat\\chathospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14B80374-E6A3-476B-A361-CDA81DAA91AE}|ChatHospital.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 844,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,54 +47,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ChatHospital.http",
-              "DocumentMoniker": "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\ChatHospital.http",
-              "RelativeDocumentMoniker": "ChatHospital.http",
-              "ToolTip": "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\ChatHospital.http",
-              "RelativeToolTip": "ChatHospital.http",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-11-11T14:35:49.653Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-13T14:32:57.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "MensajesController.cs",
+              "DocumentMoniker": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\Controllers\\MensajesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MensajesController.cs",
+              "ToolTip": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\Controllers\\MensajesController.cs",
+              "RelativeToolTip": "Controllers\\MensajesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T13:46:27.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatHospital.http",
+              "DocumentMoniker": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\ChatHospital.http",
+              "RelativeDocumentMoniker": "ChatHospital.http",
+              "ToolTip": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\ChatHospital.http",
+              "RelativeToolTip": "ChatHospital.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-11T14:35:49.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "chat.cs",
-              "DocumentMoniker": "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\chat.cs",
+              "DocumentMoniker": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\chat.cs",
               "RelativeDocumentMoniker": "chat.cs",
-              "ToolTip": "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\chat.cs",
+              "ToolTip": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\chat.cs",
               "RelativeToolTip": "chat.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T12:58:20.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\appsettings.json",
+              "ToolTip": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-11-11T12:55:20.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\marechavala\\source\\repos\\BackendChat\\ChatHospital\\Program.cs",
+              "ToolTip": "C:\\Users\\marechavala\\source\\repos\\ChatHospital\\BackendChat\\ChatHospital\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T12:54:02.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T12:54:02.544Z"
             }
           ]
         }
